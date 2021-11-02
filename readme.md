@@ -1,5 +1,6 @@
 # pigeon
-**pigeon** is a message sender blockchain built using Cosmos SDK and Tendermint Starport.
+**pigeon** is a message sender blockchain built using Cosmos SDK and Tendermint Starport. 
+Typescript and Go.
 
 ### Install
 To install the latest version of your blockchain node's binary, execute the following command on your machine:
